@@ -53,9 +53,9 @@ A pull request should encapsulate each unit of work, though we may have more tha
 
 Tasks:
 1. Write README
-1. Write Book class and tests
-1. Write Author class and tests
-1. Write Patron class and tests
-1. Write Borrowing and Returning functionality
-1. Implement saving and loading state in files
+2. Sketch Book, Author and Library class and tests, implement Library->Book functionality
+3. Write Author class and tests
+4. Write Patron class and tests
+5. Write Borrowing and Returning functionality
+6. Implement saving and loading state in files
 
